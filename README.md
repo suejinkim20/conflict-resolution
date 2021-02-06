@@ -1,9 +1,5 @@
 # conflict-resolution
 
-#This is text from the readme on my github repository.
+## This is a subheading created on GitHub
 
-Trying to create a merge conflict by adding text onto github repository.
-
-Trying to create a merge conflict by adding text to my local machine.
-
-Attempting again...
+All of this content added to the readme file has been added from my remote GitHub repository.
