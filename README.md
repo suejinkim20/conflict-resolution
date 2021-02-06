@@ -1,3 +1,3 @@
 # conflict-resolution
 
-#This is text from the readme on my machine.
+#This is text from the readme on my github repository.
